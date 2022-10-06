@@ -31,6 +31,8 @@ I am a Master's student at the University of Massachusetts Dartmouth School of M
 
 [Survey Simulation Experimentation and Evaluation Project (SSEEP)](https://thefaylab.github.io/sseep/)
 
+NSF Sustainable Regional Systems Research Network
+
 #### **Presentations** 
 
 **Visualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.**
