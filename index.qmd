@@ -1,11 +1,38 @@
 ---
-title: "mysite"
+title: "Angelia Miller"
+#subtitle: 
+image: images/headshot.jpg
+about: 
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links: 
+    - href: https://www.linkedin.com/in/angeliamarie4/
+      icon: "linkedin"
+    - href: https://twitter.com/elmarmills
+      icon: "twitter"
+    - href: https://github.com/AngeliaMiller
+      icon: "github"
+    - href: mailto:amiller7@umassd.edu
+      icon: "envelope"
 ---
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+## Current Projects
+
+[Survey Simulation Experimentation and Evaluation Project (SSEEP)](https://thefaylab.github.io/sseep/)
+
+#### Presentations 
+
+**Visualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.**
+
+Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.
+
+**Survey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.**
+
+Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022.
+
+#### Publications
