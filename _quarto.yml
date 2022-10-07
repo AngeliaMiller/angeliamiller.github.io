@@ -3,22 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Angelia Miller"
+  title: "Angelia<br>Miller"
   site-url: https://angeliamiller.dev
   navbar:
     right:
-      - text: "Home"
-        href: index.html
-      - text: "Papers"
-        href: papers
-      - text: "Presentations"
-        href: presentations
+      - text: "Curriculum Vitae"
+      - href: https://docs.google.com/document/d/1Op6MLyiURrPKYpV05Z9YyksIWJDLiiMB/edit?usp=sharing&ouid=111597982939495320870&rtpof=true&sd=true
 
 format:
   html:
-    theme: lux
+    theme: [lux, custom.scss]
     css: styles.css
+    margin-left: 0.5em
+    margin-right: 0.5em
+    #linkcolor: 1F9AA8
     toc: true
 
-editor: visual
 

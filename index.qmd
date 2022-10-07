@@ -4,7 +4,7 @@ title: "Angelia Miller"
 image: images/headshot.jpg
 about: 
   template: trestles
-  image-width: 10em
+  image-width: 15em
   image-shape: round
   links: 
     - href: https://www.linkedin.com/in/angeliamarie4/
@@ -18,14 +18,12 @@ about:
 ---
 
 ## Bio
-
 I am a Master's student at the University of Massachusetts Dartmouth School of Marine Science and Technology (UMassD SMAST), working on simulation modeling with a focus on fishery-independent survey design. My current thesis work uses quantitative and spatial tools to model species interactions and movements in response to offshore wind development to support current and future management decisions. Previously, I served as a Project Manager at the municipal government level focusing on stormwater permit compliance activities, watershed restoration goals, and database tracking needs. In all of these roles, I've worked to apply data science, scenario planning, and available tools to identify efficiency increases and potential mitigation strategies.
 
 ## Education
+University of Massachusetts Dartmouth School of Marine Science and Technology<br>*New Bedford, MA | M.S. in Marine Science and Technology | August 2021 - Present (Expected 2024)*
 
-**University of Massachusetts Dartmouth School of Marine Science and Technology** \| New Bedford, MA \| M.S. in Marine Science and Technology \| August 2021 - Present (Expected 2024)
-
-**Hood College** \| Frederick, MD \| B.A. in Environmental Science and Policy with a Biology Concentration \| August 2011 - May 2015
+Hood College<br>*Frederick, MD | B.A. in Environmental Science and Policy with a Biology Concentration | August 2011 - May 2015*
 
 ## Current Projects
 
@@ -33,14 +31,8 @@ I am a Master's student at the University of Massachusetts Dartmouth School of M
 
 NSF Sustainable Regional Systems Research Network
 
-#### **Presentations** 
+#### *Presentations*
 
-**Visualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.**
+Visualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.<br>*Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.*
 
-Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.
-
-**Survey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.**
-
-Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022.
-
-#### Publications
+Survey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.<br>*Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022.*
