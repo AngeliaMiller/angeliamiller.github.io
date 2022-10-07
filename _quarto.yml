@@ -10,7 +10,7 @@ website:
     title: "Angelia<br>Miller"
     right:
       - text: "Curriculum Vitae"
-        href: https://docs.google.com/document/d/1Op6MLyiURrPKYpV05Z9YyksIWJDLiiMB/edit?usp=sharing&ouid=111597982939495320870&rtpof=true&sd=true
+        href: https://docs.google.com/document/d/1JJwu73FwZAe_ZqB6ixIbdY3Zln-LqBaIlA0XEdRWYb4/edit?usp=sharing
 
 format:
   html:
@@ -19,6 +19,8 @@ format:
     margin-left: 0.5em
     margin-right: 0.5em
     #linkcolor: 1F9AA8
+    metadata:
+      pagetitle: "Angelia Miller"
     toc: true
 
 
