@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: [lux, custom.scss]
+    theme: lux
     css: styles.css
     margin-left: 0.5em
     margin-right: 0.5em
