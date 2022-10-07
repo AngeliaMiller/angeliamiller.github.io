@@ -10,7 +10,7 @@ website:
     title: "Angelia<br>Miller"
     right:
       - text: "Curriculum Vitae"
-        href: am_cv.pdf
+        href: cv/am_cv.pdf
 
 format:
   html:
