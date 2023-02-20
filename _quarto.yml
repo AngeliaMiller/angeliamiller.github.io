@@ -4,18 +4,29 @@ project:
 
 website:
   title: "Angelia Miller"
+  favicon: images/wave_favicon2.png
   site-url: https://angeliamiller.dev
   repo-url: https://github.com/AngeliaMiller/angeliamiller.github.io
   navbar:
-    title: "Angelia<br>Miller"
+    title: FALSE
+    #"Angelia<br>Miller"
+    logo: images/1.png
+    logo-alt: "Initials A and M with wave, sun, and mountains in yellow"
     right:
       - text: "Curriculum Vitae"
         href: cv/am_cv.pdf
+      - href: https://twitter.com/elmarmills
+        icon: "twitter"
+      - href: https://github.com/AngeliaMiller
+        icon: "github"
+  page-footer:
+    left: 
+      - "Copyright 2022, Angelia Miller"
 
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme: 
+       - mystyles.scss
     margin-left: 0.5em
     margin-right: 0.5em
     #linkcolor: 1F9AA8
