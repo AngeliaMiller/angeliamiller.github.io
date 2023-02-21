@@ -23,7 +23,7 @@ I am a Master's student at the University of Massachusetts Dartmouth School of M
 ---
 
 ## Education
-University of Massachusetts Dartmouth School of Marine Science and Technology<br>*New Bedford, MA | M.S. in Marine Science and Technology | August 2021 - Present (Expected 2024)*
+University of Massachusetts Dartmouth School of Marine Science and Technology<br>*New Bedford, MA | M.S. in Marine Science and Technology | August 2021 - Present (Expected 2023)*
 
 Hood College<br>*Frederick, MD | B.A. in Environmental Science and Policy with a Biology Concentration | August 2011 - May 2015*
 
@@ -35,10 +35,14 @@ Hood College<br>*Frederick, MD | B.A. in Environmental Science and Policy with a
 
 NSF Sustainable Regional Systems Research Network
 
----
 
 #### *Presentations*
 
 Visualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.<br>*Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.*
 
 Survey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.<br>*Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022.*
+
+
+#### *Publications*
+ICES. 2023. Workshop on Unavoidable Survey Effort Reduction 2 (WKUSER2). ICES Scientific Reports. 5:13. 115 pp. [https://doi.org/10.17895/ices.pub.22086845](https://doi.org/10.17895/ices.pub.22086845)(Contributions by A. Miller)
+
