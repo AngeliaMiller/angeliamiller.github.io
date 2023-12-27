@@ -27,4 +27,8 @@ Impacts to Northeast US fishery-independent surveys and stock abundance indices 
 
 Visualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.<br>*Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.*
 
+<<<<<<< HEAD
 Survey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.<br>*Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022.*
+=======
+Survey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.<br>*Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022.*
+>>>>>>> 6586885522e29d5aeecf4971930429e260b84ad3

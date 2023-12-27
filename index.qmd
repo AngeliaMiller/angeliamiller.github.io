@@ -1,7 +1,11 @@
 ---
 title: "Angelia Miller"
 #subtitle: 
+<<<<<<< HEAD
 image: images/headshot.jpg
+=======
+image: images/me.jpg
+>>>>>>> 6586885522e29d5aeecf4971930429e260b84ad3
 image-alt: "Headshot of Angelia Miller"
 about: 
   template: jolla
@@ -18,5 +22,10 @@ about:
       icon: envelope
 ---
 
+<<<<<<< HEAD
+=======
+
+I'm so happy you're here! 
+>>>>>>> 6586885522e29d5aeecf4971930429e260b84ad3
 
 I'm so happy you're here! 
