@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a Master’s student at the University of Massachusetts Dartmouth School of Marine Science and Technology (UMassD SMAST), working on species distribution modeling and simulation testing with a focus on fishery-independent survey design. My current thesis work analyzes the impacts of offshore wind energy development in the northeast on the Northeast Fisheries Science Center’s (NEFSC) bi-annual bottom trawl survey, and its derived stock abundance indices to support future management decisions and to mitigate potential survey effort reduction. Previously, I served as a Project Manager at the municipal government level focusing on stormwater permit compliance activities, watershed restoration goals, and database tracking needs. In all of these roles, I’ve worked to apply data science, scenario planning, and available tools to identify efficiency increases and potential mitigation strategies."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Angelia Miller",
     "section": "",
-    "text": "I am a Master’s student at the University of Massachusetts Dartmouth School of Marine Science and Technology (UMassD SMAST), working on simulation modeling with a focus on fishery-independent survey design. My current thesis work uses quantitative and spatial tools to model species interactions and movements in response to offshore wind development to support current and future management decisions. Previously, I served as a Project Manager at the municipal government level focusing on stormwater permit compliance activities, watershed restoration goals, and database tracking needs. In all of these roles, I’ve worked to apply data science, scenario planning, and available tools to identify efficiency increases and potential mitigation strategies."
+    "text": "I’m so happy you’re here!"
   },
   {
     "objectID": "index.html#education",
@@ -26,5 +26,19 @@
     "title": "Angelia Miller",
     "section": "Current Projects",
     "text": "Current Projects\nSurvey Simulation Experimentation and Evaluation Project (SSEEP)\nNSF Sustainable Regional Systems Research Network\n\nPresentations\nVisualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.\nSurvey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022.\n\n\nPublications\nICES. 2023. Workshop on Unavoidable Survey Effort Reduction 2 (WKUSER2). ICES Scientific Reports. 5:13. 115 pp. https://doi.org/10.17895/ices.pub.22086845(Contributions by A. Miller)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of Massachusetts Dartmouth School of Marine Science and TechnologyNew Bedford, MA | M.S. in Marine Science and Technology | August 2021 - Present (Expected 2024)\nHood CollegeFrederick, MD | B.A. in Environmental Science and Policy with a Biology Concentration | August 2011 - May 2015"
+  },
+  {
+    "objectID": "about.html#current-projects",
+    "href": "about.html#current-projects",
+    "title": "About",
+    "section": "Current Projects",
+    "text": "Current Projects\nSurvey Simulation Experimentation and Evaluation Project (SSEEP)\nNSF Sustainable Regional Systems Research Network\nAge-length structured assessment modeling for US Atlantic sea scallop\n\nPresentations\nImpacts to Northeast US fishery-independent surveys and stock abundance indices due to offshore wind development.Regular Talk; ICES Annual Science Conference; Bilbao, Spain; 2023.\nVisualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.\nSurvey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022."
   }
 ]

@@ -2,8 +2,29 @@
 title: "About"
 ---
 
-About this site
+I am a Master's student at the University of Massachusetts Dartmouth School of Marine Science and Technology (UMassD SMAST), working on species distribution modeling and simulation testing with a focus on fishery-independent survey design. My current thesis work analyzes the impacts of offshore wind energy development in the northeast on the Northeast Fisheries Science Center's (NEFSC) bi-annual bottom trawl survey, and its derived stock abundance indices to support future management decisions and to mitigate potential survey effort reduction. Previously, I served as a Project Manager at the municipal government level focusing on stormwater permit compliance activities, watershed restoration goals, and database tracking needs. In all of these roles, I've worked to apply data science, scenario planning, and available tools to identify efficiency increases and potential mitigation strategies.
 
-```{r}
-1 + 1
-```
+---
+
+## Education 
+
+University of Massachusetts Dartmouth School of Marine Science and Technology<br>*New Bedford, MA | M.S. in Marine Science and Technology | August 2021 - Present (Expected 2024)*
+
+Hood College<br>*Frederick, MD | B.A. in Environmental Science and Policy with a Biology Concentration | August 2011 - May 2015*
+
+---
+
+## Current Projects
+
+[Survey Simulation Experimentation and Evaluation Project (SSEEP)](https://thefaylab.github.io/sseep/)
+
+NSF Sustainable Regional Systems Research Network
+
+Age-length structured assessment modeling for US Atlantic sea scallop 
+
+#### *Presentations*
+Impacts to Northeast US fishery-independent surveys and stock abundance indices due to offshore wind development.<br>*Regular Talk; ICES Annual Science Conference; Bilbao, Spain; 2023.*
+
+Visualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.<br>*Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.*
+
+Survey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.<br>*Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022.*

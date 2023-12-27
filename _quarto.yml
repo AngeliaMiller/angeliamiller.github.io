@@ -4,23 +4,46 @@ project:
 
 website:
   title: "Angelia Miller"
+  favicon: images/wave_favicon2.png
   site-url: https://angeliamiller.dev
   repo-url: https://github.com/AngeliaMiller/angeliamiller.github.io
   navbar:
-    title: "Angelia<br>Miller"
+    title: FALSE
+    #"Angelia<br>Miller"
+    logo: images/AM_logo3.png
+    logo-alt: "Initials A and M with wave, sun, and mountains in yellow"
+    right: # align navbar items to the right/left/center
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      # - text: "Publications"
+      #   href: pubs.qmd
+      - text: "Curriculum Vitae" # use 'text' option to update the name as you want it to appear in your navbar
+        href: cv/CV_MillerAngelia.pdf
+      - href: https://twitter.com/elmarmills
+        icon: twitter
+      - href: https://github.com/AngeliaMiller
+        icon: github
+  page-footer: 
+    #image: images/wave_favicon2.png
+    left: 
+      #- ![Favicon](/images/wave_favicon2.png)
+      - text: "Copyright 2022, Angelia Miller"
     right:
-      - text: "Curriculum Vitae"
-        href: cv/am_cv.pdf
+      - href: https://twitter.com/elmarmills
+        icon: twitter
+      - href: https://github.com/AngeliaMiller
+        icon: github
 
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme: 
+       - mystyles.scss
+    mainfont: Krub
     margin-left: 0.5em
     margin-right: 0.5em
     #linkcolor: 1F9AA8
     # metadata:
     #   pagetitle: "Angelia Miller"
     toc: true
-
-
