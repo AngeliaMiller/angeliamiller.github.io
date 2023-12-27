@@ -2,6 +2,9 @@
 
 // $theme: "lux" !default;
 
+// Fonts 
+@import url('https://fonts.googleapis.com/css2?family=Krub:wght@300&display=swap');
+
 //
 // Color system
 //
@@ -17,6 +20,7 @@ $light-sage-green: #D1D9CE;
 $dark-sage-green: #98A08D;
 $dark-olive-green: #446600; 
 $olive-green: #558000;
+$emerald: #1E493A;
 $teal:    #228177;
 $light-blue: #cae8ff;
 $light-light-blue: #ecf2f9;
@@ -177,6 +181,14 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   }
 }
 
+.navbar-logo {
+  max-height: 75px;
+}
+
+.favicon {
+  max-height: 25px;
+}
+
 .bg-primary {
   background-color: theme-color("primary") !important;
 }
@@ -242,6 +254,27 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   border: 1px solid $light-sage-green !important;
 }
 
+a {
+  color: $dark-olive-green;
+  text-decoration: underline;
+}
+
+.bi {
+  color: $dark-sage-green;
+}
+
+.about-links {
+  color: $dark-sage-green;
+  border: none;
+}
+
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+    width: 26px;
+    height: 26px;
+    color: $mustard;
+    opacity: 1;
+}
+
 // Typography
 
 body {
@@ -259,8 +292,10 @@ h6 {
   letter-spacing: 3px;
 }
 
+
+
 .title {
-  color: $teal;
+  color: $emerald;
 }
 
 .text-secondary {
@@ -293,6 +328,10 @@ th {
 .dropdown-menu {
   font-size: $font-size-sm;
   text-transform: none;
+}
+
+.menu-text {
+  color: $mustard;
 }
 
 // Indicators
