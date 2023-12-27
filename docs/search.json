@@ -4,20 +4,23 @@
     "href": "about.html",
     "title": "About",
     "section": "",
+
     "text": "I am a Master’s student at the University of Massachusetts Dartmouth School of Marine Science and Technology (UMassD SMAST), working on species distribution modeling and simulation testing with a focus on fishery-independent survey design. My current thesis work analyzes the impacts of offshore wind energy development in the northeast on the Northeast Fisheries Science Center’s (NEFSC) bi-annual bottom trawl survey, and its derived stock abundance indices to support future management decisions and to mitigate potential survey effort reduction. Previously, I served as a Project Manager at the municipal government level focusing on stormwater permit compliance activities, watershed restoration goals, and database tracking needs. In all of these roles, I’ve worked to apply data science, scenario planning, and available tools to identify efficiency increases and potential mitigation strategies."
+
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\nUniversity of Massachusetts Dartmouth School of Marine Science and TechnologyNew Bedford, MA | M.S. in Marine Science and Technology | August 2021 - Present (Expected 2024)\nHood CollegeFrederick, MD | B.A. in Environmental Science and Policy with a Biology Concentration | August 2011 - May 2015"
+    "text": "Education\nUniversity of Massachusetts Dartmouth School of Marine Science and TechnologyNew Bedford, MA | M.S. in Marine Science and Technology | August 2021 - Present (Expected 2023)\nHood CollegeFrederick, MD | B.A. in Environmental Science and Policy with a Biology Concentration | August 2011 - May 2015"
   },
   {
     "objectID": "about.html#current-projects",
     "href": "about.html#current-projects",
     "title": "About",
     "section": "Current Projects",
+
     "text": "Current Projects\nSurvey Simulation Experimentation and Evaluation Project (SSEEP)\nNSF Sustainable Regional Systems Research Network\nAge-length structured assessment modeling for US Atlantic sea scallop\n\nPresentations\nImpacts to Northeast US fishery-independent surveys and stock abundance indices due to offshore wind development.Regular Talk; ICES Annual Science Conference; Bilbao, Spain; 2023.\nVisualizing historical time series data in the presence of proposed offshore wind development areas to understand the potential impacts to a fishery-independent multispecies trawl survey.Regular Talk; ICES Annual Science Conference; Dublin, Ireland; 2022.\nSurvey Simulation Experimentation and Evaluation Project (SSEEP): Evaluating impacts of offshore wind to the Northeast bottom trawl surveys.Regular Talk; ICES 2nd Workshop for Unavoidable Survey Effort Reduction; Galway, Ireland; 2022."
   },
   {
@@ -26,5 +29,6 @@
     "title": "Angelia Miller",
     "section": "",
     "text": "I’m so happy you’re here!"
+
   }
 ]
